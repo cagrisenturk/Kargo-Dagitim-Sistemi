@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1U-DesBRyxQRcVUIKfKm2QI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJfwKybI9PyxQRjiR79cciRh0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7999221,
+               "lng" : 30.0002039
+            },
+            "southwest" : {
+               "lat" : 40.7687471,
+               "lng" : 29.9407654
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.9 km",
+                  "value" : 6860
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 934
+               },
+               "end_address" : "Kadıköy, Bağdat Cd. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7687471,
+                  "lng" : 29.9407654
+               },
+               "start_address" : "Çayırköy Mh., Çakırköy Yolu No:5, 41001 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7999221,
+                  "lng" : 30.0002039
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 734
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 40.797389,
+                        "lng" : 29.9927168
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e toward \u003cb\u003eYeni Kandıra Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD605\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ov_xFglbvDjAp@x@n@TXPRNVVb@\\|@t@~AFXBFLb@BVLfANfBRpA^nAZtAb@nA@F^~B@F?DJpABr@Bj@?r@A`@A`@Cb@EZIV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7999221,
+                        "lng" : 30.0002039
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 km",
+                        "value" : 2988
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 40.7778336,
+                        "lng" : 29.9709038
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYeni Kandıra Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD605\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow D605\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uf_xFo}`vDCb@d@jARf@f@lARf@Rf@HRHPHPRd@Pd@lDrIdCrFd@`Ar@bB~@zB^~@~@|BlGfPh@rAb@fAPf@dAlCp@`Bz@pBb@dAb@dAlBpERd@^p@z@rANPb@h@f@f@fA~@b@ZJFRJFD\\Pj@Vp@T`AZ|@Vh@Nz@RfA\\bBd@fD~@zAZlCz@dAZhBp@z@^z@b@B@`@RrAp@`Bv@xFvCjG|Ch@TbAd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.797389,
+                        "lng" : 29.9927168
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 236
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.7759407,
+                        "lng" : 29.9697884
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eIstanbul\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAnkara\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "ml{wFcu|uD@HBFFJVVJJJHb@ZNJPHl@Vf@L`@JdAX`@HTH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7778336,
+                        "lng" : 29.9709038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 336
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7774539,
+                        "lng" : 29.9669375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFeyzullah İzmidi Cd.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSeymen Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Seymen Cd.\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s`{wFen|uDJLFHFJDJDRCN@\\IbASNcDjCcApAORUd@OZW~@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7759407,
+                        "lng" : 29.9697884
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.6 km",
+                        "value" : 2566
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 486
+                     },
+                     "end_location" : {
+                        "lat" : 40.7687471,
+                        "lng" : 29.9407654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aj{wFk|{uDl@`@l@b@FDb@l@FHf@|@p@vA~@lCFVJt@Dr@@bA?DG|AAh@@`@Jx@FZHXP\\T\\|@~@nBrBd@bAfAnBDDp@dANZHPHr@@l@?n@?h@B~ANdBFh@?B?B?@?BRd@R\\x@z@T^DLTf@X|@b@|AFx@?VATETI^c@fCGRGXIVCT?XP|AFl@TjCFfADb@RjB@pAHPRb@R`@R`@Pf@lAbCXp@Xl@j@fAh@j@X\\\\b@z@dALNJLLPN^Lf@@VDj@@X?J?FGt@KdACj@AX@ZBr@Bb@Hf@Np@ZjBVjCFX`AzCX~@l@bDRl@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7774539,
+                        "lng" : 29.9669375
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ov_xFglbvDjAp@x@n@f@l@f@z@rA|CJ`@Pz@\\nDRpA^nAZtAb@nA`@fCPrCB~ACbAI~@IVCb@x@rBz@tBp@~Ad@jAlDrIdCrFxAdD~AzDzK`YdEhKhEbKzAdCr@z@nBfBn@b@dBz@rBp@fBf@nKvCzAZlCz@nDlA|CxAtDhBdOtHlBz@DP^b@VTr@f@~@`@pD|@THJLNTJ^CN@\\IbASNcDjCcApAORUd@OZW~@zAdAj@r@n@fAp@vA~@lCRlAFvBGbB?jARtAHXP\\T\\|@~@nBrBd@bAlAtB`A`BHPHr@@|ABhCVnC?Lf@bAx@z@T^Zt@|@zCFx@?VGj@}@tEMl@?XP|A\\xDLjBRjB@pA\\t@f@bAPf@lAbCr@~Aj@fAh@j@v@`AhAtAX^\\fAFbA@d@G|@OpB?t@FvAXxAZjBVjChAtDX~@l@bDRl@"
+         },
+         "summary" : "D605 and Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

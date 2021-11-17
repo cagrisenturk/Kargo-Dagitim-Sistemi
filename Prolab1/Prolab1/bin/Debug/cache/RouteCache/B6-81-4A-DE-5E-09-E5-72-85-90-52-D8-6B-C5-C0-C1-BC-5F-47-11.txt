@@ -1,0 +1,156 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn4u9T49PyxQRjk13TPrbnoA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs8YMSJNFyxQRLXFa7hSYEes",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7677503,
+               "lng" : 29.9410922
+            },
+            "southwest" : {
+               "lat" : 40.7597838,
+               "lng" : 29.905421
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.0 km",
+                  "value" : 3984
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 470
+               },
+               "end_address" : "Kozluk Mh., Salim Dervişoğlu Cd No:40, 41200 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7599194,
+                  "lng" : 29.905421
+               },
+               "start_address" : "Cedit, Gazanfer Bilge Sk. No:56, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7677503,
+                  "lng" : 29.940319
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eGazanfer Bilge Sk.\u003c/b\u003e toward \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mmywF_vvuDFAj@CXAv@@J@bBAx@ATA^Al@MXI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7677503,
+                        "lng" : 29.940319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 580
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_`ywFcwvuDt@WLMPKLA@?PCdAChCCnACH?b@AvAIZCFATAHAJ?FAF?B?B?n@?x@?N?D?VAN?`ACb@Cz@Cx@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 172
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.7615199,
+                        "lng" : 29.9403472
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e2. Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_xwFyzvuDFHFFBD@D@F?D?HAFCDEBKF]HqAXK@a@FK@o@R"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 km",
+                        "value" : 2991
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 310
+                     },
+                     "end_location" : {
+                        "lat" : 40.7599194,
+                        "lng" : 29.905421
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ofxwFevvuDO?BPPjF@`@b@lQ?P@p@Bj@BfABh@?BHrC@f@?FBd@A`@@P@p@Bl@D|AFR?FDfEBpA@`@?TBhF@r@@`A@pE@z@@|B?V?D?R?VBrC?v@@|B@T?xD@X?XDfJAxCErCOvEKbDC|@EtAAVGhA?JIjAI|ACLEb@Gn@Ez@?n@A`@@rA@`@@hB@THhAHfADd@@b@@D?@DX?P@HJxDDn@B`@Hl@`@xC\\~AZpAPn@Vx@l@pBT`AJf@F^@HF`A?@@p@@`@A~@El@ALGp@EZCP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7615199,
+                        "lng" : 29.9403472
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mmywF_vvuDr@EpA?nB?nAC^Al@MnAa@^YNAvAGxEG`DOjAG~B?lCIz@Cx@KNPDJ@LAPIHi@P}AZm@Ho@RO?T|Fd@nRHvDNhFB`BD~AD|AFRDnEDrBFtJHhRBdK@r@DfJAxCUjJO`FObEShDIp@MjBApAFtFZzEFr@LbEHpAj@fE\\~Al@`CdAjD`@hBHh@FbABrAGlBI~@Il@"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3xhkeh5QyxQRMkdEALUevb0",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnwyctIZFyxQRP8V7TQ5FV38",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7674941,
+               "lng" : 29.9775607
+            },
+            "southwest" : {
+               "lat" : 40.76054690000001,
+               "lng" : 29.918121
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.4 km",
+                  "value" : 6398
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 517
+               },
+               "end_address" : "Kemalpaşa, İmaret Ykş. Sk. 38 A, 41200 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7639947,
+                  "lng" : 29.9218403
+               },
+               "start_address" : "Yahyakaptan, Akasyalar Cd. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7663461,
+                  "lng" : 29.9763294
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7673238,
+                        "lng" : 29.9753357
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eAkasyalar Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "udywFaw}uDkCnCCBWVYX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7663461,
+                        "lng" : 29.9763294
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 426
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.7647373,
+                        "lng" : 29.9775607
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit and stay on \u003cb\u003eAkasyalar Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wjywF{p}uDC?A?A?A@A?A?A@A?A@A@A@A@A@A@?@A@?BA@?@?BA@?@?B?@?@?B?@@B?@?@@@@D@@@@@@@@@@@@@?B?@@@?@?@?@?@?@?BA@?@A@?@A?A@?@A?A@??A@A?A?A@A?A?A?A@A?A?A?EPSpA{A~EwFzAwAZSl@O"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7673238,
+                        "lng" : 29.9753357
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.763216,
+                        "lng" : 29.9770011
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit and stay on \u003cb\u003eAkasyalar Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "szxwFw~}uDD@D@DAlATvBt@vA`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7647373,
+                        "lng" : 29.9775607
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 963
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 40.7615139,
+                        "lng" : 29.9683612
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eAkasyalar Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "cqxwFg{}uD?HAF@F@HBDBFBDDBB?B@D@DADAFCBCDE@G@GbBh@x@XbAh@rAn@XL`@P@@NDJ@XFDHNHHJDH@PAR?TK~@Iv@KnAGv@KzAEf@E`@Gt@[xEMdBEn@AJEx@Gt@YpDG|@KfCEj@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.763216,
+                        "lng" : 29.9770011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.3 km",
+                        "value" : 4263
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 232
+                     },
+                     "end_location" : {
+                        "lat" : 40.762393,
+                        "lng" : 29.918205
+                     },
+                     "html_instructions" : "Take the ramp on the \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAdapazarı İzmit Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD100\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow D100\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "mfxwFge|uDJpBWxCMdBC\\WlDs@jJq@rMm@|OGpAEpA?HCdA?PAp@?d@Ah@CnBAvAE|C?NIzGGpA?FCfDJnBBvB@p@|@~d@^bQJfEHfD`@fIClBDl@Dn@@XJ`CHtDFtD`@j[D|DDhCDjF?TLnR?r@An@Al@?f@K`EQfCBvBAPARATI|@Gh@SlAeArDWp@Wr@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7615139,
+                        "lng" : 29.9683612
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "57 m",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.76269300000001,
+                        "lng" : 29.9184433
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eSaray Ykş. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}kxwFwkruDUJC@G@C?EAC?CAACCE?EAK?_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.762393,
+                        "lng" : 29.918205
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 197
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 40.7638557,
+                        "lng" : 29.9200387
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eSaray Ykş. Sk.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ymxwFgmruDCW?EEMGIk@]MO_@kACGAEC[CI?ACEUYCEGGGEIEAASKa@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76269300000001,
+                        "lng" : 29.9184433
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 148
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.76425140000001,
+                        "lng" : 29.9216926
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eİnönü Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "cuxwFgwruD@??A?A?A?A?A?A?A?AAA?A?A?A?E?E?ECKAEQs@KSCWe@mD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7638557,
+                        "lng" : 29.9200387
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.7639947,
+                        "lng" : 29.9218403
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eİmaret Ykş. Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qwxwFqasuDr@]"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76425140000001,
+                        "lng" : 29.9216926
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "udywFaw}uDaEdEI@OHGR?TJRNDPCHKBO?GbBoB~EwFzAwAZSl@OJBrARnEvA?H?NDNPPHBJCJGFM@GbBh@x@XbAh@lB|@b@RZFXFDHXTFZAh@UvBe@jGmAbQa@nFQrDJpBWxCQbCkAxOq@rMm@|OMbDCnACrCKtJQlJCnDJnBBvB~@pf@j@jWHfD`@fIClBDl@FhATvHh@`a@PhQLbTAn@AtAK`EQfC@hCCh@QfBSlAeArDo@dBYLK@IAIKEiAESGIk@]MO_@kAEMGe@CGi@m@aAe@@C?EAGCc@Sy@KSCWe@mDr@]"
+         },
+         "summary" : "D100",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

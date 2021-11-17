@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seka Park Seaside Public Garden",
+               "short_name" : "Seka Park Seaside Public Garden",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "Oramiral Salim Dervişoğlu Caddesi",
+               "short_name" : "Oramiral Salim Dervişoğlu Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kozluk",
+               "short_name" : "Kozluk",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41200",
+               "short_name" : "41200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kozluk, Seka Park Seaside Public Garden, Oramiral Salim Dervişoğlu Cd., 41200 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.75978,
+               "lng" : 29.905258
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7611289802915,
+                  "lng" : 29.9066069802915
+               },
+               "southwest" : {
+                  "lat" : 40.7584310197085,
+                  "lng" : 29.9039090197085
+               }
+            }
+         },
+         "place_id" : "ChIJW60lSJNFyxQRhjFwpdYu_Lw",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,228 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHQPqHI9PyxQR0-zxJi-jPlA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1Z1mFotOyxQRqJMfYmmSnq0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8250766,
+               "lng" : 29.9431527
+            },
+            "southwest" : {
+               "lat" : 40.76850049999999,
+               "lng" : 29.9214081
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "9.2 km",
+                  "value" : 9176
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 790
+               },
+               "end_address" : "Kabaoğlu, Kocaeli Çayırova Yolu, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8238233,
+                  "lng" : 29.9241581
+               },
+               "start_address" : "Kadıköy, Bağdat Cd. No:4, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.76850049999999,
+                  "lng" : 29.94194529999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.7685104,
+                        "lng" : 29.9431159
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBağdat Cd.\u003c/b\u003e toward \u003cb\u003eHayri Hoca Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "crywFe`wuDC_A?iA@_B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76850049999999,
+                        "lng" : 29.94194529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 40.76957609999999,
+                        "lng" : 29.9430509
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGülvatan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "erywFogwuDO?kBGK@U@A@WD]H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7685104,
+                        "lng" : 29.9431159
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{xywFagwuDFX`AzCX~@l@bDj@fB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76957609999999,
+                        "lng" : 29.9430509
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2473
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 272
+                     },
+                     "end_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}rywF_wvuDUXa@Hy@LMBKBI@M?UCMEOGOIA?MIWOGC[KEASEc@COAI?_@Ac@@Y@_AZg@Ki@HA?{ARMBa@FgANeANc@HqAPo@LW@U@M?SAQCOEe@O{@a@MGs@]SI[QQSY_@KMWa@Ya@OMQOYKSGQECAYASAS?S@K@IBODMFuAh@]LOHSRA@SRQZIXGf@CdA?|@@jB?`BJpB?HBb@BRLb@HVJ^?NHlADf@?FJvA@P?R?XEb@GRITENIJW\\KHOJ]VeCrBA??@A?A@A@A??@A??@A?A@A@A@A@A@A??@A?A@A@A@A??@A?A@A@A@A??@A??@A?A@A@A@A@A@A??@A??@A?A@A@?@A?A@A@A@A??@A@A??@A??@A??@A@A??@A??@A??@A@A??@A@A@A@?@A?A@?@A?A@?@A@A@A@GFILMTKRu@dBi@lA_@z@IPGHCDKPGFA@ABKJKJIHSPOJUN_@P_@LUFaBl@}@j@a@^i@f@m@|@y@dA_@f@A?Y^s@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3327
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 205
+                     },
+                     "end_location" : {
+                        "lat" : 40.8104465,
+                        "lng" : 29.9384006
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eKocaeli Ünv. Ümittepe Kampüsü Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "at|wFqqtuDA?A?A?A?A?A@A??@A?A@A@A@?@A??@?@q@BU@K?WAa@Ce@EMAUCOASCSC_@AgAEc@Cc@Au@Cs@Ak@DE?i@Je@Re@ZCB}@x@]Za@XULMFi@P_ARSBs@LSBYFuAZe@Le@P]R_Aj@WJc@Hc@@A?a@AGA[CKAUGUIKGICQKUQy@q@YYe@i@[c@IM{@eBc@q@]c@y@u@UOWOc@KSGUEOEIAI?IAIAI?}@@yAB_@Hc@N_@To@j@e@b@C@ONSNIDMFWLQFg@FYDK?E?I@G@gAMYIOG_@S{A{@IEe@c@IMIMQ_@EM[y@sAcDO_@OYg@s@q@y@iAaASQIEoA{@WQUO_@UYScC{A_BkA[Sa@Wo@q@q@y@i@eAACWe@Yk@Q]U_@ACY_@GISSYYAA][{@m@WKiAe@oCo@UGMCoCw@sAa@cA[MEkAYICaBYwBSy@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.6 km",
+                        "value" : 2598
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 40.8249702,
+                        "lng" : 29.92180359999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ixaxF_jvuDy@E{CG]AsCGyBI}BOsAIy@AQA]AeB?iC?O?S@k@@s@De@Fq@LgAPkDn@uDr@YF_G~@m@Ra@Nc@PQLUP_@\\]b@]j@Ul@Od@Op@Gh@EZIlBAp@AFMvFGrAEl@AX[xD_@nDUvBgBdNMxACLkA~IIj@?@YrB_@`CS~@S~@Wz@Wp@Qd@A@ABm@`Bi@~A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8104465,
+                        "lng" : 29.9384006
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 318
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8238233,
+                        "lng" : 29.9241581
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit and stay on \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "asdxFgbsuDC?A@A@A@A?A@?@A@AB?@A@?@?BA@?@?B?@?B@B?@@@?@?@@@?@@@?@@??@@@?@@?@@?@@??@@?@@@??@@?@@@?@?@?@A@?@A@A@?@A@A@A@C@C?C@A@C?C@C?C?A?A?A?A?A?AA??CAAACHCDEDG\\}@Ra@V}@j@uBZwAVoADW"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8249702,
+                        "lng" : 29.92180359999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "crywFe`wuDCiC@_BO?wBEWBu@NhAtDX~@l@bDj@fBUX{AVYFW@c@Io@[_@Sa@Mw@IYAcA?Y@_AZg@Ki@H}AR}Dj@}Dj@c@@e@Eu@UiAi@gAg@[QQSe@m@q@cAa@]m@SUGm@Cg@@UDqCdAc@\\UTQZIXGf@CdA@hD?`BJpBBl@BRLb@Tv@H|ARxC?l@Mv@Od@a@h@_E`DIDQNSNe@`@QRa@f@Yh@_BrDu@|AW^u@r@e@Z_A^wBt@}@j@a@^i@f@m@|@yAlB[^u@f@C?C?GDEHsADmBMmAMoDMiBEq@Di@Je@Ri@^{AtAw@f@w@XsAVgAPoBb@kA^}A~@WJc@He@@qAIw@Y[OoAcA_AcAe@q@_BwC]c@y@u@m@_@w@Sy@MSCgA@yAB_@Hc@N_@TuAnASP]Te@Ty@Ne@DO@G@gAMi@Q{BoAo@i@S[gCkG_@y@yAmB}AsAyAaAgBkAcC{A_BkA}@k@o@q@q@y@k@iAyAoCw@aA[[yAiAaBq@eDw@uHyByA_@kB]qD_@uEMqDIyBI}BOmCKo@CsG@_BFwATcM|B_G~@m@ReA`@g@^}@`As@xA_@vAMdAK~CO~FM`C]rEu@fHgBdNMxAoAlJcAbHg@~Bo@lBcAlCm@~ACBEDGRBRFLHHHBFCJKF[AMCENIb@eARa@V}@fAmE\\gB"
+         },
+         "summary" : "Gazanfer Bilge Blv. and Kocaeli Çayırova Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

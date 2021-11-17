@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8885923 Can. inc",
+               "short_name" : "8885923 Can. inc",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "1452",
+               "short_name" : "1452",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Principale",
+               "short_name" : "Rue Principale",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Granby",
+               "short_name" : "Granby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Haute-Yamaska",
+               "short_name" : "La Haute-Yamaska",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J2J 0M4",
+               "short_name" : "J2J 0M4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8885923 Can. inc, 1452 Rue Principale, Granby, QC J2J 0M4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4237411,
+               "lng" : -72.79876709999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4250900802915,
+                  "lng" : -72.7974181197085
+               },
+               "southwest" : {
+                  "lat" : 45.4223921197085,
+                  "lng" : -72.8001160802915
+               }
+            }
+         },
+         "place_id" : "ChIJ8RfNs07JyUwRn-OduCvw4n8",
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

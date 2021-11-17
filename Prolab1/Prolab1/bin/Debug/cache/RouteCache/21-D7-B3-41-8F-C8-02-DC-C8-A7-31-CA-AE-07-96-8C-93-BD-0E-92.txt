@@ -1,0 +1,132 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpf5upktOyxQROc9NdwR4jQs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKcUVW0pOyxQRla8FoMPcjDQ",
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.80001559999999,
+               "lng" : 29.9486847
+            },
+            "southwest" : {
+               "lat" : 40.7997779,
+               "lng" : 29.94723119999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 166
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 23
+               },
+               "end_address" : "Ayazma, Otobüs Durağı, 17 Ağustos Blv., 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7997779,
+                  "lng" : 29.9486847
+               },
+               "start_address" : "Ayazma, Üniversite Cd. No:20, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8000026,
+                  "lng" : 29.9474455
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.7998319,
+                        "lng" : 29.9474719
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eÜniversite Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_w_xFqbxuD?@A@?@?@?@A??@?@?@?@?@?@@@?@?@?@@??@?@@??@@@@@@@@?@@@?@?@?@?@?@A@?@A@??A@A@??A@A?A?A@??A?A?A?A@A?A?A?AAA?A?A?A?AA??AAA?A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8000026,
+                        "lng" : 29.9474455
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7998785,
+                        "lng" : 29.948678
+                     },
+                     "html_instructions" : "Exit the roundabout onto \u003cb\u003e17 Ağustos Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}u_xFubxuDCo@Ao@Ae@?KAk@?o@?C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7998319,
+                        "lng" : 29.9474719
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.7997779,
+                        "lng" : 29.9486847
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gv_xFgjxuDR?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7998785,
+                        "lng" : 29.948678
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_w_xFqbxuDCTHPLBNKBQAIGw@EmC?s@R?"
+         },
+         "summary" : "17 Ağustos Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ74YCC4ZPyxQRuj1QZCUFK6s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJfSY9kaBPyxQRPgCpbAdthao",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7979967,
+               "lng" : 29.9415297
+            },
+            "southwest" : {
+               "lat" : 40.7671695,
+               "lng" : 29.9272698
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.9 km",
+                  "value" : 5898
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 609
+               },
+               "end_address" : "Kabaoğlu, Prof. Baki Komşuoğlu Blv., 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7873268,
+                  "lng" : 29.9292972
+               },
+               "start_address" : "Cedit, Turan Güneş Cd. No:34, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7672941,
+                  "lng" : 29.93815469999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671695,
+                        "lng" : 29.9376303
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eDevlet Hst. Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qjywFmhvuDRrABR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672941,
+                        "lng" : 29.93815469999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.7678214,
+                        "lng" : 29.9374913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDevlet Hst. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yiywFeevuDk@JuAN"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671695,
+                        "lng" : 29.9376303
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 211
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.7682592,
+                        "lng" : 29.939915
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{mywFidvuDo@gDQkB@[?QIy@Cc@IeA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7678214,
+                        "lng" : 29.9374913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2540
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 290
+                     },
+                     "end_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "spywFosvuDA]CSAIG]q@C]Fa@Hy@LMBKBI@M?UCMEOGOIA?MIWOGC[KEASEc@COAI?_@Ac@@Y@_AZg@Ki@HA?{ARMBa@FgANeANc@HqAPo@LW@U@M?SAQCOEe@O{@a@MGs@]SI[QQSY_@KMWa@Ya@OMQOYKSGQECAYASAS?S@K@IBODMFuAh@]LOHSRA@SRQZIXGf@CdA?|@@jB?`BJpB?HBb@BRLb@HVJ^?NHlADf@?FJvA@P?R?XEb@GRITENIJW\\KHOJ]VeCrBA??@A?A@A@A??@A??@A?A@A@A@A@A@A??@A?A@A@A@A??@A?A@A@A@A??@A??@A?A@A@A@A@A@A??@A??@A?A@A@?@A?A@A@A@A??@A@A??@A??@A??@A@A??@A??@A??@A@A??@A@A@A@?@A?A@?@A?A@?@A@A@A@GFILMTKRu@dBe@fACD_@z@IPGHCDKPGFA@ABKJKJIHSPOJUN_@P_@LUFaBl@}@j@a@^i@f@m@|@y@dA_@f@A?Y^s@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682592,
+                        "lng" : 29.939915
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1656
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.7977825,
+                        "lng" : 29.9290551
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "at|wFqqtuDA?A?A?A?A?A@A??@A?A@A@A@?@A??@?@q@BU@K?WAa@Ce@EMAUCOASCSC_@AgAEc@Cc@Au@Cs@Ak@DE?i@Je@Re@ZCB}@x@]Za@XULMFi@P_ARSBs@LSBYFuAZe@Le@P]R_Aj@WJc@Hc@@A?a@AGA[CKAUGUIKGICQKUQy@q@YYe@i@[c@IM{@eBc@q@]c@y@u@UOWOc@KSGUEOEIAI?IAIAI?}@@yAB_@Hc@N_@To@j@e@b@C@ONSNIDMFWLQFg@FYD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1372
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 117
+                     },
+                     "end_location" : {
+                        "lat" : 40.7873268,
+                        "lng" : 29.9292972
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit and stay on \u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ci_xFsotuDK?E?I@G@CBADAF?H@L?LH@JBHAFCl@GRCPCFCFCFEHIFGBCBCHIFKBCPUvAmADELKFEFE@AFC@?DADCVIJCHCF?JANAtB@X@n@PPDf@VDBVNB@LHJHDBDDHHLNX`@NXFJDH~AjCTZHHNNdAv@|@h@b@T`@Fd@HV@d@An@Mj@Q~@e@`@S^QLGTE`@I`@IzCi@jAWTIHEHEHIPKnBcBd@[PILCHEHAHC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7977825,
+                        "lng" : 29.9290551
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qjywFmhvuDVfBaCZo@gDQkB@m@YaEE]G]q@C_APgAPUDc@Co@WiAi@mAMgB@_AZg@Kk@HsEn@kFx@m@Ba@Aa@Ie@O{@a@aAe@o@[k@s@c@o@i@o@k@[e@M]Cg@A_@B}Bz@m@VUTe@n@Q`ACbC@lERrDVz@J^?NNtBJ~A@d@E|@Qh@OZc@f@m@b@gCtBEBIFGFSNe@`@k@l@Wb@aAxBsAzC_@h@[\\]Ze@Z_A^wBt@}@j@a@^i@f@m@|@yAlB[^w@f@C?GBGF?Bq@Ba@@y@EyAMoCOqDKq@Di@Je@Ri@^{AtAw@f@w@X{Ch@oBb@kA^}A~@WJc@He@@i@C}@M}@a@oAcA_AcAe@q@_BwC]c@y@u@m@_@}A_@g@EgA@yAB_@Hc@N_@TuAnAq@f@e@Ty@Nu@FKDCL@V?LH@T@t@Kt@O\\[X]PUvAmARQXQd@Oh@IdC?X@n@Px@\\\\Rb@X\\^p@fAdBtC^d@tAfA`B~@fAP|@?n@Mj@Q`By@l@Yv@O|Ds@`Ba@n@a@nBcBd@[^M\\K"
+         },
+         "summary" : "Gazanfer Bilge Blv. and Prof. Baki Komşuoğlu Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

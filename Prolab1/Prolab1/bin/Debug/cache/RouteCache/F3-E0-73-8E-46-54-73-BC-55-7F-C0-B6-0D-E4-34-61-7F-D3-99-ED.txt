@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn93T8p5PyxQRTZjMJOOyVis",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnb_w841QyxQRDZHZVVnNJ-M",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.78080240000001,
+               "lng" : 29.9571246
+            },
+            "southwest" : {
+               "lat" : 40.7621858,
+               "lng" : 29.9314112
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.2 km",
+                  "value" : 5231
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 674
+               },
+               "end_address" : "Körfez, Sanayi Cd. No:12, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7621858,
+                  "lng" : 29.9408368
+               },
+               "start_address" : "Orhan, Çağla Sk. No:2, 41200 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.78010889999999,
+                  "lng" : 29.9314112
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 40.78080240000001,
+                        "lng" : 29.9321071
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eDevran Cd.\u003c/b\u003e toward \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uz{wFi~tuDMQ[]IMSOe@a@[["
+                     },
+                     "start_location" : {
+                        "lat" : 40.78010889999999,
+                        "lng" : 29.9314112
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 2004
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 40.7687597,
+                        "lng" : 29.9401642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "__|wFubuuDP[fAeC^{@DKNYBGR[?AV_@PSHKJKJIFGFEFC|@s@PKxAkAp@k@VUPUHOJUFYBSB]@[?[C[A[Eg@OoBEo@CQQg@O]AQAa@A_@GqAAmA?e@?y@Au@?g@@[?S?GB[DOHa@R[JMNMPIz@_@n@YRGDARENCVAP?VBRBRFPHJH@@HFJJX`@V`@HLTRBBVVJHRL@@vAp@x@ZPHRHNDF@F@J@L?J?L?J?\\E`AMb@Gb@GxAUp@Ib@Gb@G`@Gb@Gf@Ij@Al@@n@Bl@D^DFBPBNFJDTJTHHDTJJBRFVBP@NCn@U^[VGPCJAN@HB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.78080240000001,
+                        "lng" : 29.9321071
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1083
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 238
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671745,
+                        "lng" : 29.9520947
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wsywF_uvuDl@?n@AAIG]G]CUE}@Gw@C}AAk@CgA?iA@_B@m@Dc@F}@Fu@BMD_@Ns@D[Dw@Da@ZoCHk@\\eBL{@XwA@OP{@F}@Fk@TuANs@Fk@Fm@By@B{@?Q@}A?wAAi@Km@AG@a@By@@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7687597,
+                        "lng" : 29.9401642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 623
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.7632074,
+                        "lng" : 29.9570664
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yiywFq_yuDRYDM@IDOJORk@Zs@^s@R_@t@oAXu@HYhAuAX[t@aAz@kAl@s@|BqCb@c@DEPM`@Q@?@?@??@@?@?@?@?@?@?@?@?@?@?@?@?@?@?@A@?@?@A@?@?@A@A@?@A@A@??A@?@A?A@??A@?DKBM?A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671745,
+                        "lng" : 29.9520947
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.7629234,
+                        "lng" : 29.9571246
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqxwFu~yuDH?n@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7632074,
+                        "lng" : 29.9570664
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 334
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7627447,
+                        "lng" : 29.953368
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto the ramp to \u003cb\u003eIstanbul\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "goxwF__zuDTJDBDDPX?LItCM~DCdB?dB@RA`A?N@HH\\"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7629234,
+                        "lng" : 29.9571246
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1058
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7621858,
+                        "lng" : 29.9408368
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eİstanbul İzmit Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD100\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "cnxwFqgyuDGpA?FCfDJnBBvB~@pf@^bQHhD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7627447,
+                        "lng" : 29.953368
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uz{wFi~tuDi@o@]]aA}@xAaDx@iB|@qAh@i@~AiAjCwBh@k@Te@Jm@Dy@Cw@]cFCQQg@O]AQCaAGqAAmA?_BA}ADsANq@^i@`@WjBy@|@SVAh@Bf@J\\RJHd@l@`@n@XVx@p@vD`Bj@Jr@?bC[|HgAf@Ij@A|ADlAJXFfAb@~@\\h@D~@Y^[VG\\EXD|AAU{AMuBEiCCqCBmCXeDTsAJsA`@qDf@qCz@_FNiBd@iCNyAFuB?qFMu@D{A@YRYFW`A_Cr@sAt@oAXu@HYhAuAnA}AhB_C|BqCb@c@VSb@QD@D?J?VGFELQBMHAn@ITJJHPX?LWtICdB?dB?tA@XH\\GpACnDJnBBvB~Atx@HhD"
+         },
+         "summary" : "Gazanfer Bilge Blv. and Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

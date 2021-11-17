@@ -1,0 +1,203 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNzMB1oVPyxQRYnEs1YibsH4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ0V7kX4BPyxQRvAucU2KrKqU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7681033,
+               "lng" : 29.9370812
+            },
+            "southwest" : {
+               "lat" : 40.7664988,
+               "lng" : 29.9306263
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 658
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 162
+               },
+               "end_address" : "Çukurbağ, Küçük Harman Sk. No:5, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7664988,
+                  "lng" : 29.9306957
+               },
+               "start_address" : "Cedit, Maslak Sk. No:53, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7681033,
+                  "lng" : 29.9370812
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.7677447,
+                        "lng" : 29.9370435
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eŞeyh Akif Cd.\u003c/b\u003e toward \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "soywFwavuDfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7681033,
+                        "lng" : 29.9370812
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670682,
+                        "lng" : 29.935002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kmywFoavuDTt@l@hBNb@J\\VpBLbA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7677447,
+                        "lng" : 29.9370435
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7666386,
+                        "lng" : 29.9330925
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eİnönü Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eiywFwtuuDb@|Ch@tCFhA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670682,
+                        "lng" : 29.935002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.7669037,
+                        "lng" : 29.9326228
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eİsmail Çakmak Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ofywFyhuuDMHIBGBEBA@A@A@ABABAD?D?H?D?JAP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7666386,
+                        "lng" : 29.9330925
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 40.7666448,
+                        "lng" : 29.9306263
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGülümser Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "chywF{euuDKj@QnAC`A?J@JDb@r@n@XbB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7669037,
+                        "lng" : 29.9326228
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.7664988,
+                        "lng" : 29.9306957
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKüçük Harman Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ofywFmytuDZM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7666448,
+                        "lng" : 29.9306263
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "soywFwavuDfAFTt@|@lCJ\\VpBp@`Fh@tCFhAWLQJGN?TA\\]zBClAFn@r@n@XbBZM"
+         },
+         "summary" : "Turan Güneş Cd., İnönü Cd. and Gülümser Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

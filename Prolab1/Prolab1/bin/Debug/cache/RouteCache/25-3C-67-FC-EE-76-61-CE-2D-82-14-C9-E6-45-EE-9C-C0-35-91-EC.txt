@@ -1,0 +1,180 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE0gEakpOyxQReQEz-Od5HJY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJheZwDcJPyxQR8V0qy5Yfcwk",
+         "types" : [ "cafe", "establishment", "food", "point_of_interest", "store" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8000702,
+               "lng" : 29.9494084
+            },
+            "southwest" : {
+               "lat" : 40.7911306,
+               "lng" : 29.927399
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.6 km",
+                  "value" : 3635
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 436
+               },
+               "end_address" : "Kabaoğlu Mah. , Prof. Dr. Baki komşuoğlu Bulvarı Tepe Park Residence, Kabaoğlu, D:No:484 / 161, 41001 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7942322,
+                  "lng" : 29.9297592
+               },
+               "start_address" : "Ayazma, 17 Ağustos Blv. No:128, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8000702,
+                  "lng" : 29.9494084
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.7999818,
+                        "lng" : 29.9474784
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003e17 Ağustos Blv.\u003c/b\u003e toward \u003cb\u003eGemici Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mw_xFynxuDHNDXD\\?p@?`@?N?JA~AA|A?J"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8000702,
+                        "lng" : 29.9494084
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 764
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 40.7946652,
+                        "lng" : 29.9455991
+                     },
+                     "html_instructions" : "At the roundabout, continue straight onto \u003cb\u003ePiotr Wilcynskl Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "{v_xFwbxuDA@?@A??@?@A@?@?@?@A??@?@?@?@?@?@@@?@?@?@@??@?@@?XhABJH\\FJRd@BFP\\Td@Td@HRjAhCj@dAj@v@NJZRPJl@NNBL@r@ALAXGVI^KhAa@`@OVKj@UPIdBy@j@[`Ag@~@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7999818,
+                        "lng" : 29.9474784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 505
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 40.7974641,
+                        "lng" : 29.9411876
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAşık Veysel Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uu~wF_wwuD?LAD?BGRKZe@pAu@zAc@`ACFu@tBU|@c@rAGV[bAKZQZOV_@\\CBKFaAVQDOFQFIDEBMJMN"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7946652,
+                        "lng" : 29.9455991
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1766
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 218
+                     },
+                     "end_location" : {
+                        "lat" : 40.79119740000001,
+                        "lng" : 29.927686
+                     },
+                     "html_instructions" : "\u003cb\u003eAşık Veysel Cd.\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eKocapınar Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cg_xFm{vuDIPAF@D@HFLBD@Dh@dA@BJRFL@Bh@lAN\\@BBFRXDHn@t@RTFFv@x@pAvA@@Z\\TZBBNTHXH`@AV?JAN?HAFCJAHITc@fA[t@EDAFCDCJAHEJCFCFILa@n@ORU\\ABADAF?F?H?H@D?BHVd@lAVv@?@BF?F@HAJ?D?@CHUd@OZsAhCq@rAINg@r@?@ADCH?DAL?F?@BH@JBFFFRHtAVLBJBFB@@HDHDHFNJl@ZHDHDJDJBf@J`@DPF^NDBRLJHt@l@DB^VRP\\`@Td@@HRr@b@zBXnAHTFNBD@BV`@Z^x@p@ZT@@XPVLNDHDVFD@LBRBJ?R?D?TAPCTCb@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7974641,
+                        "lng" : 29.9411876
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 435
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.7942322,
+                        "lng" : 29.9297592
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "_`~wFagtuDL`@WJc@Hc@@A?a@AGA[CKAUGUIKGICQKUQy@q@YYe@i@[c@IM{@eBc@q@]c@o@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79119740000001,
+                        "lng" : 29.927686
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mw_xFynxuDHNDXDnAA|CCjBABAHAH@HBB\\tAPh@~@pBvChGj@v@NJl@^|@RL@r@Af@Iv@UnDsAdFgC~@g@?LAHSn@e@pAu@zAg@hAu@tBU|@k@jBg@~Aa@r@c@`@KFaAVa@Lo@\\W`@?LNb@|B~EV`@t@~@rAvAdCrCRXRz@C|@Qr@eAbCKb@Wh@iAdBC^@NHZ|@dCBH?b@CJe@`AeC|Eq@bAEV@`@DRFFRHtAVXF\\PfAn@j@ThAPp@VzAhAd@ZRP\\`@Vn@Rr@b@zBb@dBJTXd@Z^x@p@ZTZRhA`@RD^BX?f@ETCb@QL`@WJc@Hc@@c@Ac@Ea@Ik@Ug@]sAkAaAmAeAsBaAuAo@m@"
+         },
+         "summary" : "Kocapınar Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

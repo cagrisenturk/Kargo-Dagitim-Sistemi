@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayazma",
+               "short_name" : "Ayazma",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41060",
+               "short_name" : "41060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ayazma, 41060 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.81044199999999,
+                  "lng" : 29.96763
+               },
+               "southwest" : {
+                  "lat" : 40.797214,
+                  "lng" : 29.9418971
+               }
+            },
+            "location" : {
+               "lat" : 40.8026437,
+               "lng" : 29.9538172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81044199999999,
+                  "lng" : 29.96763
+               },
+               "southwest" : {
+                  "lat" : 40.797214,
+                  "lng" : 29.9418971
+               }
+            }
+         },
+         "place_id" : "ChIJfb3uYjdOyxQRdi7F01m5Two",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabaoğlu",
+               "short_name" : "Kabaoğlu",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "伊斯坦堡省",
+               "short_name" : "伊斯坦堡省",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41000",
+               "short_name" : "41000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eski İstanbul Yolu 10. Km. Umuttepe Yerleşkesi, Kabaoğlu, 41000 İzmit/伊斯坦堡省 Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8251067,
+               "lng" : 29.9186133
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8264556802915,
+                  "lng" : 29.91996228029149
+               },
+               "southwest" : {
+                  "lat" : 40.8237577197085,
+                  "lng" : 29.9172643197085
+               }
+            }
+         },
+         "place_id" : "ChIJM_PY3IxOyxQRvK631NIE1bg",
+         "plus_code" : {
+            "compound_code" : "RWG9+2C İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFRWG9+2C"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

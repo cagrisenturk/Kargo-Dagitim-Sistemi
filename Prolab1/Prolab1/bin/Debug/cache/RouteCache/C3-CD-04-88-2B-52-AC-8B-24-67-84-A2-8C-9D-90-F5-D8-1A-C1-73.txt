@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI7Gg9XtFyxQRCjJjlleEMGU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9xZymVFyxQR7tKQVMLrOV4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7614951,
+               "lng" : 29.94445919999999
+            },
+            "southwest" : {
+               "lat" : 40.7550533,
+               "lng" : 29.9339624
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1493
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 173
+               },
+               "end_address" : "Sanayi, İsimsiz Yol, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7550533,
+                  "lng" : 29.9439369
+               },
+               "start_address" : "Karabaş, 1. Cd. No:6, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7600469,
+                  "lng" : 29.9339624
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.7611187,
+                        "lng" : 29.9340573
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i}wwFgnuuD]?gBAC?y@AQO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7600469,
+                        "lng" : 29.9339624
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 524
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 40.7614951,
+                        "lng" : 29.9402579
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_dxwF{nuuDAm@Cm@?AEgAGgB?i@Co@?Qc@kQEcCImC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7611187,
+                        "lng" : 29.9340573
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7599661,
+                        "lng" : 29.9412395
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e2. Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfxwFsuvuDTEn@M@A^IZGf@MFCXGNEPKFE?ADEBG?CBI?C@E?A?C@C@E@E@CDGZ_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7614951,
+                        "lng" : 29.9402579
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 437
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7568584,
+                        "lng" : 29.9443576
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "y|wwFw{vuDNIj@e@XMRM`BiAb@[vBqBfBcCLQz@eAV[^g@Zk@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7599661,
+                        "lng" : 29.9412395
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 211
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.7550533,
+                        "lng" : 29.9439369
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kiwwFgowuDH@H?NCp@Ip@G|@Fn@Ll@X@@\\V^XDB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7568584,
+                        "lng" : 29.9443576
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i}wwFgnuuDcECQOAm@Co@QiGs@oZlEaA`@QFGL[F_@FKj@i@j@e@XMtBwAzCmCtBuCrAaBz@sAR@`AMp@G|@Fn@Ll@X^Xd@\\"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd. and Ömer Türkçakal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

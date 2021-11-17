@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1Z1mFotOyxQRqJMfYmmSnq0",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ20YJUhVOyxQRhPeam7wIpBA",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8238233,
+               "lng" : 29.9519812
+            },
+            "southwest" : {
+               "lat" : 40.8137261,
+               "lng" : 29.9241581
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.6 km",
+                  "value" : 3583
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 328
+               },
+               "end_address" : "Sekbanlı, Sekbanlı Köyü İç Yolu, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.81435159999999,
+                  "lng" : 29.951642
+               },
+               "start_address" : "Kabaoğlu, Kocaeli Çayırova Yolu, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8238233,
+                  "lng" : 29.9241581
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1913
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 40.8143702,
+                        "lng" : 29.9384237
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e toward \u003cb\u003eKocaeli Ünv. Kampüsü B-Kapısı\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{kdxF_qsuDJu@`@aDDe@fBmN~AmMBUXoD`@aGf@kIHcBNwD@ELgAZmAZw@f@s@j@i@`@Y^Qb@MDA^I`AQjAS`AQ`@GLCTE`@InAWxCk@fB[pAUz@Mt@Gn@AR@b@@D?~@FhAFtBJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8238233,
+                        "lng" : 29.9241581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1571
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 186
+                     },
+                     "end_location" : {
+                        "lat" : 40.8137261,
+                        "lng" : 29.9516669
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSekbanlı Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ypbxFcjvuD@y@A[CSESEGGIOQc@[GGoAaAKEcAg@_Ao@]M]OCAw@OuAMG?}@KQCc@EOKEGACAK?O?A@g@Du@Fw@D}AF{BBi@Bu@?I@m@DwA@M@gA@_BFoC?cA?_@DkAJyBHyA@IDUBKFGHEFELALCT?L?R?TANC@ARQfAyAtAaB|@wAh@_AR_@Xi@j@iAh@eAJMLKb@e@b@e@Hs@RW"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8143702,
+                        "lng" : 29.9384237
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "27 m",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8137752,
+                        "lng" : 29.9519812
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSekbanlı Köyü İç Yolu\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ylbxF}|xuDI}@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8137261,
+                        "lng" : 29.9516669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.81435159999999,
+                        "lng" : 29.951642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eSekbanlı Köyü İç Yolu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmbxF{~xuDaAx@o@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8137752,
+                        "lng" : 29.9519812
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{kdxF_qsuDl@wElBsObBcNz@qLp@oLP}DLgAZmAZw@f@s@j@i@`@YbA_@rDq@zNmClCc@dBI|BJ~DR?uAIg@MQOQc@[wAiAoAm@_Ao@]Ma@Qw@OuAMeAKu@IOKGKA[@i@LmBLyEHwCJmGFsEDkBTsEF_@JSPKZEb@?h@APEzAkBtAaB|@wA|@_BdAsBh@eAJMp@q@b@e@Hs@RWI}@aAx@o@H"
+         },
+         "summary" : "Kocaeli Çayırova Yolu and Sekbanlı Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

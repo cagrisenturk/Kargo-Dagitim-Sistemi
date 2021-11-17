@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12460",
+               "short_name" : "12460",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nevada City Highway",
+               "short_name" : "Nevada City Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grass Valley",
+               "short_name" : "Grass Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada County",
+               "short_name" : "Nevada County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95945",
+               "short_name" : "95945",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8499",
+               "short_name" : "8499",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "12460 Nevada City Hwy, Grass Valley, CA 95945, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2434568,
+               "lng" : -121.0357767
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2448057802915,
+                  "lng" : -121.0344277197085
+               },
+               "southwest" : {
+                  "lat" : 39.2421078197085,
+                  "lng" : -121.0371256802915
+               }
+            }
+         },
+         "place_id" : "ChIJqYcppX1wm4ARwOb7f9AHXbk",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

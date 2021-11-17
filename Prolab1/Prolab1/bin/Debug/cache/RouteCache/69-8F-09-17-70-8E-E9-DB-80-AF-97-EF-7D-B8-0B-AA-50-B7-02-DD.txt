@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEVGXCZ9PyxQRT_hWke-OniY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVfNkX6dPyxQRKhcnDEDqgmo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7911306,
+               "lng" : 29.93139739999999
+            },
+            "southwest" : {
+               "lat" : 40.7818604,
+               "lng" : 29.9271797
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1517
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 184
+               },
+               "end_address" : "Kabaoğlu, Prof. Baki Komşuoğlu Blv., 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7891168,
+                  "lng" : 29.9281857
+               },
+               "start_address" : "Orhan Mh., Gazanfer Bilge Blv. No:159, 41200 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7826021,
+                  "lng" : 29.9308487
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.7818604,
+                        "lng" : 29.9312347
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e toward \u003cb\u003eİsmail Gaspıralı Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gj|wFyztuDn@YBAb@Uz@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7826021,
+                        "lng" : 29.9308487
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eİsmail Gaspıralı Cd.\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "se|wFe}tuDIa@aBl@}@j@a@^i@f@m@|@y@dA_@f@A?Y^s@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7818604,
+                        "lng" : 29.9312347
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 774
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.7908122,
+                        "lng" : 29.92773739999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "at|wFqqtuDA?A?A?A?A?A@A??@A?A@A@A@?@A??@?@q@BU@K?WAa@Ce@EMAUCOASCSC_@AgAEc@Cc@Au@Cs@Ak@DE?i@Je@Re@ZCB}@x@]Za@XULMFi@P_ARSBs@LSBYFuAZe@Le@P]R"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.789276,
+                        "lng" : 29.92732299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAli Örden Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q}}wFkgtuD_Aj@JPTRPJTHRFX?L?LC|@KdBOLAN?D@L@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7908122,
+                        "lng" : 29.92773739999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7891168,
+                        "lng" : 29.9281857
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_t}wFwdtuDPs@@OHo@@I@O?K?EAM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.789276,
+                        "lng" : 29.92732299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gj|wFyztuDr@[~Ao@Ia@aBl@}@j@a@^i@f@m@|@yAlB[^u@f@C?C?GDEHsADmBMmAMoDMiBEq@Di@Je@Ri@^{AtAw@f@w@XsAVgAPoBb@kA^}A~@JPTRf@TRFX?ZCbD[\\ARBF@Ps@J_ABYA_@"
+         },
+         "summary" : "Gazanfer Bilge Blv. and Prof. Baki Komşuoğlu Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

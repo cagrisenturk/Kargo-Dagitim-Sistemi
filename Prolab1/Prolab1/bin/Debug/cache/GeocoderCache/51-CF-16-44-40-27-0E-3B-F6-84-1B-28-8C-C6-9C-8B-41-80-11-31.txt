@@ -1,0 +1,73 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "82",
+               "short_name" : "82",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oramiral Salim Dervişoğlu Caddesi",
+               "short_name" : "Oramiral Salim Dervişoğlu Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Karabaş",
+               "short_name" : "Karabaş",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41040",
+               "short_name" : "41040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karabaş, Oramiral Salim Dervişoğlu Cd. No:82, 41040 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.760044,
+               "lng" : 29.9343205
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7613929802915,
+                  "lng" : 29.9356694802915
+               },
+               "southwest" : {
+                  "lat" : 40.7586950197085,
+                  "lng" : 29.9329715197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9XdgF3xFyxQRqIxFLG8D_1I",
+         "plus_code" : {
+            "compound_code" : "QW6M+2P İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW6M+2P"
+         },
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      }
+   ],
+   "status" : "OK"
+}

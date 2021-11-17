@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Akasyalar Caddesi",
+               "short_name" : "Akasyalar Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yahyakaptan",
+               "short_name" : "Yahyakaptan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41000",
+               "short_name" : "41000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yahyakaptan, Akasyalar Cd. No:24, 41000 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.766377,
+               "lng" : 29.976382
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7677259802915,
+                  "lng" : 29.9777309802915
+               },
+               "southwest" : {
+                  "lat" : 40.7650280197085,
+                  "lng" : 29.9750330197085
+               }
+            }
+         },
+         "place_id" : "ChIJR9eeeR5QyxQRgQP8ww112Kg",
+         "plus_code" : {
+            "compound_code" : "QX8G+HH İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQX8G+HH"
+         },
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      }
+   ],
+   "status" : "OK"
+}

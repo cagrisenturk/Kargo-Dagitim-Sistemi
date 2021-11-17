@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbdQ5-tPyxQRkKF8AkQpS8Q",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkyowxYZPyxQRh-qCgi17Y60",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7735619,
+               "lng" : 29.9561851
+            },
+            "southwest" : {
+               "lat" : 40.7671372,
+               "lng" : 29.9342934
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2168
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 508
+               },
+               "end_address" : "Cedit, Bahariye Cd. No:9, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7672055,
+                  "lng" : 29.9342934
+               },
+               "start_address" : "Bekirdere, Turan Güneş Cd. 361-1, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7731857,
+                  "lng" : 29.9561851
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.773334,
+                        "lng" : 29.9553275
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eÖz Sk.\u003c/b\u003e toward \u003cb\u003eOzan Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mozwFeyyuDJd@FVBh@AT?FAPABABA@EBEB]@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7731857,
+                        "lng" : 29.9561851
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7735619,
+                        "lng" : 29.9551078
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOzan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ipzwFysyuDUTMLCDE@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.773334,
+                        "lng" : 29.9553275
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.7724772,
+                        "lng" : 29.9548315
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTavşantepe Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wqzwFmryuD@@DBD@t@Xf@JX?j@@d@F"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7735619,
+                        "lng" : 29.9551078
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1826
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 417
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671372,
+                        "lng" : 29.93533889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_kzwFupyuDc@fCGRGXIVCT?XP|AFl@TjCFfADb@RjB@pAHPRb@R`@R`@Pf@lAbCXp@Xl@j@fAh@j@X\\\\b@z@dALNJLLPN^Lf@@VDj@@X?J?FGt@KdACj@AX@ZBr@Bb@Hf@Np@ZjBVjCFXPf@n@rBX~@l@bDj@fBFPJl@Jb@H\\^pCDVBFJLPjBn@fDNxATt@l@hBNb@J\\VpB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7724772,
+                        "lng" : 29.9548315
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672055,
+                        "lng" : 29.9342934
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBahariye Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "siywF{vuuDY~BBZBTB^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671372,
+                        "lng" : 29.93533889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mozwFeyyuDR|@@~@C\\OL]@UTQRE@@@JDt@Xf@JdA@d@Fc@fCOl@Ml@?XP|A\\xDLjBRjB@pA\\t@f@bAPf@lAbCr@~Aj@fAh@j@v@`AhAtAX^\\fAFbA@d@G|@OpB?t@FvAXxAZjBVjCX`AhArDl@bDj@fBR~@T`Ad@hDNTPjBn@fDNxATt@|@lCJ\\VpBY~BBZFt@"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

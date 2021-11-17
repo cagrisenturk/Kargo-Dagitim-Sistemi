@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnwyctIZFyxQRP8V7TQ5FV38",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE2l_Z51PyxQRV08l7QhkJBs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7763601,
+               "lng" : 29.9284515
+            },
+            "southwest" : {
+               "lat" : 40.7639432,
+               "lng" : 29.9171502
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.4 km",
+                  "value" : 2426
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 322
+               },
+               "end_address" : "Orhan Mh., Devran Cd. No:29, 41200 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7763601,
+                  "lng" : 29.9284515
+               },
+               "start_address" : "Kemalpaşa, İmaret Ykş. Sk. 38 A, 41200 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7639947,
+                  "lng" : 29.9218403
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.76425140000001,
+                        "lng" : 29.9216926
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eİmaret Ykş. Sk.\u003c/b\u003e toward \u003cb\u003eİnönü Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}uxwFobsuDs@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7639947,
+                        "lng" : 29.9218403
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 133
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.7640082,
+                        "lng" : 29.9201608
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eİnönü Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qwxwFqasuDd@lDBVEVJrA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76425140000001,
+                        "lng" : 29.9216926
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7648035,
+                        "lng" : 29.91878759999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eSaadettin Yalım Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "avxwF_xruD?@A??@?@A??@?@?@?@?@?@?@?@?@?@@??@?@@@@@?@@?@??@@?@?@?@?]tAO^MTKNOLa@\\UL[T"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7640082,
+                        "lng" : 29.9201608
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1097
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 40.7696558,
+                        "lng" : 29.9211936
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eSaadettin Yalım Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_{xwFmoruD}@o@KEw@o@eAk@_@S]KG?I?I@OFSRWT?T?JD~@Br@AlE?P?\\AJCTGFCBC@C?A@C?IAMMEEEIa@cAq@uAMOEEECKCSAc@CS@C?_@DWHa@NcA\\GCC?A?E?i@@M@IAGAOEUIUMMSEICGgAoCg@m@c@_ASe@jAsCRg@h@mADS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7648035,
+                        "lng" : 29.91878759999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 999
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 40.7763601,
+                        "lng" : 29.9284515
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDevran Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kyywFm~ruDEEo@Y]]_BiAw@q@{@u@]YMIoAeAiAs@[Oa@QaAe@i@[w@q@_@w@m@eBAAQe@GSg@cA]y@Qm@Qq@CIW{@K[KYYi@m@y@KMKKKKECGEKEMGMCSC[AGAKAIECEA?CGGMG[Ue@Wa@YSQI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7696558,
+                        "lng" : 29.9211936
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}uxwFobsuDs@\\d@lDBVEVJrA?@A@AB?D?FDJFBB?]tA]t@[\\w@j@[T}@o@cAu@eB_Ae@KS@OFSRWT?TDjABr@AlE?n@E`@KJMBIAMMKOsAyCSUQGw@EW@w@NeBl@KC_ABQCe@OUMMSIQgAoCg@m@w@eB~A{Dn@aBu@_@}BgB_DkCoAeAiAs@}@a@kBaAw@q@_@w@o@gBYy@eA}Bc@_Bs@{BYi@m@y@WYe@[[Ko@EGAUGQ[G[Ue@Wa@YSQI"
+         },
+         "summary" : "Saadettin Yalım Cd. and Devran Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
